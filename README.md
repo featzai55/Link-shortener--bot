@@ -13,5 +13,6 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_KEY`: Create [GPlink](https://gplinks.in/) account then get this value from [GPlink API](https://gplinks.in/member/tools/api)
-####THIS BOT IS MADE FOR [@TSNM_LINKS](https://t.me/TSNM_LINKS) 
-Join. [@TSNM_CHNLS](https://t.me/TSNM_CHNLS) For Series And Movies 
+
+##THIS BOT IS MADE FOR [@TSNM_LINKS](https://t.me/TSNM_LINKS) 
+* Join. [@TSNM_CHNLS](https://t.me/TSNM_CHNLS) For Series And Movies 
